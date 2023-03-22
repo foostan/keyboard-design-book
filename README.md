@@ -31,11 +31,16 @@ We welcome contributions to improve and expand the content of this book. Here's 
 
 1. **Fork this repository**: Click the "Fork" button at the top-right corner of this page to create your own copy of the repository.
 
-2. **Clone your fork**: Clone your forked repository to your local machine using the following command (replace `your-username` with your GitHub username):
+2. Run the following commands to build the book for each language (replace `en` or `ja` with the appropriate language code, and replace `keyboard_design_book_en.md` or `keyboard_design_book_ja.md` with the corresponding Markdown file for that language):
 
-```
-git clone https://github.com/your-username/keyboard-design-book.git
-```
+   - To build the English version:
+     ```
+     pandoc -M lang=en en/keyboard_design_book_en.md en/metadata_en.yml -s -o en/keyboard_design_book_en.pdf
+     ```
+   - To build the Japanese version:
+     ```
+     pandoc -M lang=ja ja/keyboard_design_book_ja.md ja/metadata_ja.yml -s -o ja/keyboard_design_book_ja.pdf
+     ```
 
 3. **Create a new branch**: Navigate to the cloned repository on your local machine and create a new branch for your changes:
 
