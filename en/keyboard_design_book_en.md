@@ -42,10 +42,22 @@ There are several types of keyboards available today, each with its unique featu
 In the following sections, we will dive deeper into the various aspects of keyboard design, such as layouts, ergonomics, mechanical key switches, and more, to help you gain a better understanding of this essential input device.
 
 # Keyboard Layouts
+## QWERTY, Dvorak, Colemak, and other alternative layouts
+The QWERTY layout is the most widely used keyboard layout globally. It was originally designed for typewriters and has been adopted by computer keyboards. However, alternative keyboard layouts, such as Dvorak and Colemak, have been developed to improve typing efficiency and reduce finger strain. These layouts aim to place the most frequently used keys in more accessible positions, leading to reduced finger travel and improved typing speeds.
 
-- QWERTY, Dvorak, Colemak, and other alternative layouts
-- Language-specific layouts and internationalization
-- Pros and cons of various layouts
+## Language-specific layouts and internationalization
+There are also language-specific keyboard layouts designed to accommodate special characters and symbols used in various languages. For example, the AZERTY layout is commonly used in French-speaking countries, and the QWERTZ layout is popular in German-speaking countries. Other language-specific layouts include the Russian JCUKEN and the Japanese JIS layout.
+
+Internationalization allows users to input characters from different languages on a single keyboard. Operating systems typically support multiple keyboard layouts, enabling users to switch between them as needed.
+
+## Pros and cons of various layouts
+Each keyboard layout has its advantages and disadvantages:
+
+- **QWERTY**: The most widely used layout, making it familiar to most users. However, it is not optimized for typing efficiency and can lead to increased finger strain.
+- **Dvorak**: Designed to improve typing efficiency and reduce finger strain, but has a steep learning curve for those accustomed to QWERTY.
+- **Colemak**: A compromise between QWERTY and Dvorak, offering improved efficiency while maintaining some familiarity with the QWERTY layout. However, it is still less common and may be challenging to learn for some users.
+- **Language-specific layouts**: These layouts cater to specific languages, making it easier to type special characters and symbols. However, they may be less efficient for typing in other languages.
+Ultimately, the best keyboard layout depends on the user's needs, preferences, and typing habits.
 
 # Ergonomic Keyboards
 
